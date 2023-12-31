@@ -49,7 +49,7 @@ version
 .packages
 .pub-cache/
 .pub/
-build/
+# build/
 flutter_*.png
 linked_*.ds
 unlinked.ds
@@ -106,7 +106,6 @@ coverage/
 packages/**/pubspec.lock
 
 # Web related
-lib/generated_plugin_registrant.dart
 
 # Firebase related
 .firebase/
